@@ -1,2 +1,0 @@
-# MobileCycleGan
-For DAP
